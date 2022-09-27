@@ -1,4 +1,4 @@
-# Cetral de jogos
+# Central de jogos
 
 ## Como jogar
 
